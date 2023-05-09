@@ -4,6 +4,10 @@ Mau Artifact
 [Mau](https://github.com/) is a grey-box, GPI-accelerated fuzzer for
 EVM smart contracts. 
 
+# Download the Release
+```
+wget https://github.com/mao-artifact/mao-artifact/releases/download/0.1/release.tar && tar zxvf release.tar && cd release
+```
 
 # Setup
 
